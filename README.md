@@ -1,0 +1,1 @@
+nh-magisk-wifi-firmware
