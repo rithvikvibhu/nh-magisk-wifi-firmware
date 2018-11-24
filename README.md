@@ -14,9 +14,13 @@ This module should work with any variant of Nethunter, but it was created to wor
 - htc_9271
 - RT2870 (used by AWUS036NEH)
 - RT3070, RT3071 (used by TE-W322U)
+- RTL8188EU (used by TL-WN722N-V2)
 - MT7601u
 
 #### Changelog
+
+* v1.0.3
+    - Added files for RTL8188EU
 
 * v1.0.2
     - Added files for RT3070 and RT3071
