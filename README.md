@@ -16,9 +16,13 @@ This module should work with any variant of Nethunter, but it was created to wor
 - RT3070, RT3071 (used by TE-W322U)
 - RTL8188EU (used by TL-WN722N-V2)
 - RTL8192* (CU, EU, DE, SE)
+- AR9170 (used by Netgear_WN111v2)
 - MT7601u
 
 #### Changelog
+
+* v1.0.5
+    - Added files for AR9170
 
 * v1.0.4
     - Added files for RTL8192
