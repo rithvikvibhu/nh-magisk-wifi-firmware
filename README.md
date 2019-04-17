@@ -21,6 +21,10 @@ This module should work with any variant of Nethunter, but it was created to wor
 
 #### Changelog
 
+* v2.0.0
+    - Migrated to new Magisk Installer template
+    - Added upater-script for zip flashing
+
 * v1.0.5
     - Added files for AR9170
 
