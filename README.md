@@ -16,10 +16,15 @@ This module should work with any variant of Nethunter, but it was created to wor
 - RT3070, RT3071 (used by TE-W322U)
 - RTL8188EU (used by TL-WN722N-V2)
 - RTL8192* (CU, EU, DE, SE)
+- RTL8821/12* (AE, AU)
 - AR9170 (used by Netgear_WN111v2)
+- AR7010 (used by TL-WN821Nv3)
 - MT7601u
 
 #### Changelog
+
+* v2.0.1
+    - Added files for AR7010 and RTL8821
 
 * v2.0.0
     - Migrated to new Magisk Installer template
