@@ -14,6 +14,7 @@ This module should work with any variant of Nethunter, but it was created to wor
 - **Realtek** - RTL8188EU, RTL8192* (CU/EU/DE/SE), RTL8821/12* (AE/AU)
 - **Atheros** - AR9170, AR7010
 - **Mediatek** - MT7601u
+- **Broadcom** - bcm43xx (not tested)
 
 
 #### Supported adapters
@@ -28,6 +29,9 @@ This module should work with any variant of Nethunter, but it was created to wor
 
 
 #### Changelog
+
+* v2.0.3
+    - Added files for bcm43xx (meant for bcm4358)
 
 * v2.0.2
     - Added all Ralink files
