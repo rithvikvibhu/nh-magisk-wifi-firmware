@@ -11,7 +11,7 @@ This module should work with any variant of Nethunter, but it was created to wor
 #### Supported chipsets:
 
 - **Ralink** - RT2501, RT2501USB, RT2561, RT2561S, RT2571W, RT2600, RT2661, RT2671, RT2760, RT2790, RT2860, RT2870, RT2890, RT3070, RT3071, RT3090, RT3290, RT5201, RT5600
-- **Realtek** - RTL8188EU, RTL8192* (CU/EU/DE/SE), RTL8821/12* (AE/AU)
+- **Realtek** - RTL8188EU, RTL8192* (CU/EU/DE/SE), RTL8821/12* (AE/AU), RTL8188FTV
 - **Atheros** - AR9170, AR7010
 - **Mediatek** - MT7601u
 - **Broadcom** - bcm43xx (not tested)
